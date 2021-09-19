@@ -1,4 +1,6 @@
-# Streamlit app for analyzing 2020 Asian American vote choice trends in 2020
+# Asian American Vote Trends in 2020
+
+Streamlit app analyzing Asian American vote choice trends in 2020.
 
 ## Set-up Instructions
 
@@ -18,4 +20,4 @@ You can access the deployed Streamlit web app [here]().
 
 ## Data sources
 - American Community Survey 2019
-- [Amlani & Algara (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0261379421001050?dgcid=author#b5)'
+- [Amlani & Algara (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0261379421001050?dgcid=author#b5)
